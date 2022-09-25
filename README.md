@@ -15,8 +15,8 @@
 
 ### 📁 Acesso ao projeto
 
-link: https://vinnybrites.github.io/netflix-page/
-link: https://netflix-page-three.vercel.app/
+- link: https://vinnybrites.github.io/netflix-page/
+- link: https://netflix-page-three.vercel.app/
 
 ### ✔️ Tecnologias utilizadas
 
